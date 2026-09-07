@@ -114,7 +114,7 @@ local MEDICAL_COLOR = Color3.fromRGB(50, 220, 100) -- Light Green
 local Window = Rayfield:CreateWindow({
     Name = "Zone & Item Markers Controller",
     LoadingTitle = "Loading Markers...",
-    LoadingSubtitle = "by Assistant",
+    LoadingSubtitle = "by Buldogkor",
     ConfigurationSaving = { Enabled = false },
     Discord = { Enabled = false },
     KeySystem = false
